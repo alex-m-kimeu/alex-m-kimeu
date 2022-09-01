@@ -6,11 +6,13 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/alex-m-kimeu/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <!-- <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
   <code><a href="https://www.instagram.com/alex_m_kimeu/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Alex Kimeu an Electrical, Electronic and software engineer
+  Hi, I'm Alex Kimeu, Electrical, Electronic and software engineer
   <br>
   <br>
   🔬 I'm currently studying for a Bachelors degree in Nairobi University Elctrical and Electronic Engineering Department
@@ -66,4 +68,5 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=alex-m-kimeu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
 <hr>
