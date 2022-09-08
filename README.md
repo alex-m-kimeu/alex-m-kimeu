@@ -15,7 +15,7 @@
   Hi, I'm Alex Kimeu, Electrical, Electronic and software engineer
   <br>
   <br>
-  🔬 I'm currently studying for a Bachelors degree in Nairobi University Elctrical and Electronic Engineering Department
+  🔬 I'm currently studying for a Bachelors degree in Nairobi University Electrical and Electronic Engineering Department
   <br>
   💻 I love writing code and learn anythings about it
   <br>
