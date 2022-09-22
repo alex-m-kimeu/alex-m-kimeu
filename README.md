@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Alex Kimeu, Electrical, Electronic and software engineer
+  I'm Alex Kimeu, Electrical, Electronic and software engineer
   <br>
   <br>
   🔬 I'm currently studying for a Bachelors degree in Nairobi University Electrical and Electronic Engineering Department
