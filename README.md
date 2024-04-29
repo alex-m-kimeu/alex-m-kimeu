@@ -1,4 +1,5 @@
-[![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)]([https://rishavchanda.io](https://www.cntech.westrift.com/))
+![Alt text](img/github.gif)
+
 Hey there! 👋
 ========================================================================================================================================
 
@@ -13,7 +14,7 @@ Hey there! 👋
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/alex-m-kimeu/" target="_blank">
+  <a href="https://www.linkedin.com/in/alex-m-kimeu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
