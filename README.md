@@ -1,66 +1,81 @@
-<div id="header" align="center">
-  
-  ### Hi there 👋
+<div align="center" id="header">
 
-  I am Alex, welcome to my GitHub profile 
+  <h1>Hi there 👋</h1>
+  <h3>I am Alex, welcome to my GitHub profile</h3>
+  <p>Full Stack Developer | Nairobi, Kenya 🇰🇪</p>
+
+  <img src="https://komarev.com/ghpvc/?username=alex-m-kimeu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a Full Stack Developer based in Nairobi, Kenya 🇰🇪  
-I enjoy building modern, scalable web applications and solving real-world problems with code.
+I'm a passionate developer who loves building user-friendly, performant, and scalable web applications.
 
-- 🔭 Currently working on **Next.js** projects using **Tailwind CSS**, **Shadcn UI**, and **Prisma**  
-- 💡 Actively learning more about **AI tools**, **IoT**, and **microservices**  
-- 🛠 Check out some of my projects below or on my portfolio (coming soon)  
-- 📬 Reach me at: alexkimeu1999@gmail.com
+- 🔭 Currently focused on **Next.js**, **Prisma**, and **Shadcn UI**
+- 💡 Exploring **IoT**, **AI tools**, and **microservices**
+- 🌱 Continuously learning, improving, and shipping projects
+- 📬 Reach me at: **alexkimeu1999@gmail.com**
 
 ---
 
 ### 🧠 Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Tech Stack](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Tech Stack](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Tech Stack](https://skillicons.dev/icons?i=prisma,postgres)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Tech Stack](https://skillicons.dev/icons?i=py,flask,fastapi)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Tech Stack](https://skillicons.dev/icons?i=tailwind,materialui,figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML & CSS" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript & TypeScript" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React & Next.js" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma,postgres" alt="Prisma & Postgres" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py,flask,fastapi" alt="Python, Flask & FastAPI" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,figma" alt="Tailwind, MUI & Figma" />
+</div>
 
 ---
 
-<!-- ### ⚒️ Projects
+<!-- Uncomment when you're ready to show projects
 
-- **[CarePro](https://github.com/your-username/carepro)**  
-  Platform connecting trusted house managers with homeowners, built with Next.js, Prisma, and Shadcn UI.
+### ⚒️ Projects
 
-- **[HR-Hub](https://github.com/your-username/hr-hub)**  
-  A streamlined human resource management system for growing teams.
+- **[CarePro](https://github.com/alex-mambo/carepro)**  
+  Connects trusted house managers with homeowners using Next.js and Prisma.
 
-- **[GoWheels](https://github.com/your-username/gowheels)**  
-  A modern car rental platform featuring user dashboards and booking systems.
+- **[HR-Hub](https://github.com/alex-mambo/hr-hub)**  
+  HR system designed for agile teams with a clean UI.
 
-- **[My Banda](https://github.com/your-username/my-banda)**  
-  A community listing and rental platform for local bandas and housing units.
+- **[GoWheels](https://github.com/alex-mambo/gowheels)**  
+  Car rental booking platform with secure user flows.
+
+- **[My Banda](https://github.com/alex-mambo/my-banda)**  
+  Local rental listing platform for bandas and houses.
 
 ---
- -->
+
+-->
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  <p>Let's connect</p>
+  <h3>🌐 Connect with Me</h3>
 
-<div id="badges" align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/alex-m-kimeu/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <a href="https://www.instagram.com/alex_m_kimeu/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/alex-m-kimeu/" target="_blank" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/alex_m_kimeu/" target="_blank" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </div>
 
 </div>
 
 ---
 
-💬 *“Code is a superpower. Use it to build, connect, and inspire.”*
+<div align="center">
+  💬 <i>“Code is a superpower. Use it to build, connect, and inspire.”</i>
+</div>
