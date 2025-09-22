@@ -30,7 +30,9 @@ I'm a passionate developer who loves building user-friendly, performant, and sca
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React & Next.js" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=prisma,postgres" alt="Prisma & Postgres" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Nodejs & Express" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,docker" alt="Prisma, Postgres & Docker" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=py,flask,fastapi" alt="Python, Flask & FastAPI" />
   &nbsp;&nbsp;&nbsp;&nbsp;
